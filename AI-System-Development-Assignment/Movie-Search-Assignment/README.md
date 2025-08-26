@@ -8,7 +8,7 @@ Follow these steps to set up the project on your local machine.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/aryansingh-31/AI-Systems-Development.git
+    git clone https://github.com/aryansingh-31/AI-System-Development.git
     cd Assignment-1/
     ```
 
@@ -67,4 +67,5 @@ results = search_movies(query=my_query, top_n=3)
 print(f"Search results for: '{my_query}'")
 print(results)
 ```
+
 
