@@ -1,5 +1,6 @@
 # AI-Systems-Development
 
-### Tanvi Kori
-### DSAI
-### 221020454
+### Aryan Singh Ghritlahare
+### ECE
+### 221010212
+
